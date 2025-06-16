@@ -2,9 +2,8 @@ streamlit
 langchain
 langchain-groq
 python-docx
+docx2txt
 PyPDF2
 faiss-cpu
 sentence-transformers
 python-dotenv
-docx2txt
-langchain-groq
